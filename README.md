@@ -2,6 +2,8 @@
 
 This project is a React application bootstrapped with Vite. It includes features such as dark mode, user details, and skeleton loaders for better user experience.
 
+deployed Link : https://chipper-crostata-af9aca.netlify.app/
+
 ## Getting Started
 
 ### Prerequisites
@@ -18,3 +20,4 @@ cd vite-project
 npm install
 npm run dev
 ```
+
